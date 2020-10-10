@@ -1,0 +1,6 @@
+[package]
+    name = "application"
+    version = "0.1.0"
+    authors = ["dev klaus.klein@cwi.com.br"]
+    [dependencies]
+        
